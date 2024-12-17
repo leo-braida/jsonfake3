@@ -1,8 +1,8 @@
 {
    "quartos": [
-      {"id":1, "situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 1},
-      {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 2},
-      {"id":3, "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 3}
+      {"id":1, "tipo":"Quarto Romântico","situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 1},
+      {"id":2, "tipo":"Quarto dos Pirralhos", "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 2},
+      {"id":3, "tipo":"Quarto Família", "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 3}
    ],
     "hospedagens": [
         {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "criancas": 2, "idServicos": "1", "idItens": "1"},
