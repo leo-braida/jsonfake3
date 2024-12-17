@@ -5,9 +5,9 @@
       {"id":3, "tipo":"Quarto Família", "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 3}
    ],
     "hospedagens": [
-        {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "criancas": 2, "idServicos": "1", "idItens": "1"},
-        {"id": 2, "checkIn": "13/08/2023", "checkOut": "16/08/2023", "idHospede": 1, "adultos": 3, "criancas": 0, "idServicos": "1", "idItens": "1"},
-        {"id": 3, "checkIn": "21/09/2023", "checkOut": "27/09/2023", "idHospede": 2, "adultos": 1, "criancas": 2, "idServicos": "2", "idItens": "2"}
+        {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "criancas": 2, "idServicos": "1", "idItens": "1", "idReserva":1},
+        {"id": 2, "checkIn": "13/08/2023", "checkOut": "16/08/2023", "idHospede": 1, "adultos": 3, "criancas": 0, "idServicos": "1", "idItens": "1", "idReserva":2},
+        {"id": 3, "checkIn": "21/09/2023", "checkOut": "27/09/2023", "idHospede": 2, "adultos": 1, "criancas": 2, "idServicos": "2", "idItens": "2", "idReserva":}
     ],
    "quartosNaHospedagem": [
         {"id":1, "idQuarto":1, "idHospedagem":1},
@@ -19,5 +19,10 @@
       {"id":1, "quantidadeTotal": 5, "Preço": 79.50, "quantidadeCamas": 12, "quantidadeAdultos": 2, "quantidadeCriancas": 1},
       {"id":2, "quantidadeTotal": 3, "Preço": 19.50, "quantidadeCamas": 16, "quantidadeAdultos": 3, "quantidadeCriancas": 1},
       {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCriancas": 2}
-    ]
+    ],
+   "reservas": [
+      {"id": 1, "dataChegada": "12/01/2004", "dataSaida": "15/01/2004", "idHospede": 1},
+      {"id": 2, "dataChegada": "10/04/1998", "dataSaida": "20/04/1998", "idHospede": 1},
+      {"id": 3, "dataChegada": "30/12/2024", "dataSaida": "03/01/2024", "idHospede": 2}
+   ]
 }
