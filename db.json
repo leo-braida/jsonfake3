@@ -1,8 +1,8 @@
 {
    "quartos": [
-      {"id":1, "situacao": "Disponivel", "numero": 71, "idTipoDeQuarto": 1},
-      {"id":2, "situacao": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 2},
-      {"id":3, "situacao": "Em manutenção", "numero": 139, "idTipoDeQuarto": 3}
+      {"id":1, "situacao": "Disponivel", "numero": 71, "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo"},
+      {"id":2, "situacao": "Requer manutenção", "numero": 22, "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo"},
+      {"id":3, "situacao": "Em manutenção", "numero": 139, "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"},
    ],
     "hospedagens": [
         {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "criancas": 2, "idServicos": "1", "idItens": "1", "idReserva":"1"},
