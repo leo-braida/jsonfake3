@@ -15,7 +15,7 @@
         {"id":3,"horarioInicio": "15:00", "data": "2024-10-20", "hospedeRegistrado": "Roberto", "funcionario": "Mateus", "quarto": 3, "servico": "Aula de Hidroginástica"}
       ],
   "tipoDeQuartos": [
-      {"id":1, "tipo":"Quarto Romântico", "quantidadeTotal": 5, "preco": 79.50, "quantidadeAdultos": 2, "quantidadeCriancas": 1, "camas":"2x Beliche <br>1x KingSize <br>1x Berço", "itens":"2x Airfreyer \n1x Airfreyer"},
+      {"id":1, "tipo":"Quarto Romântico", "quantidadeTotal": 5, "preco": 79.50, "quantidadeAdultos": 2, "quantidadeCriancas": 1, "camas":"2x Beliche \n1x KingSize \n1x Berço", "itens":"2x Airfreyer \n1x Airfreyer"},
       {"id":2, "tipo":"Quarto dos Pirralhos", "quantidadeTotal": 3, "preco": 19.50, "quantidadeAdultos": 3, "quantidadeCriancas": 1, "camas":"1x KingSize", "itens": "1x Tv"},
       {"id":3, "tipo":"Quarto Família", "quantidadeTotal": 12, "preco": 45.50, "quantidadeAdultos": 2, "quantidadeCriancas": 2, "camas":"3x Solteiro", "itens":""}
     ],
