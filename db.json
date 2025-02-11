@@ -18,10 +18,5 @@
       {"id":1, "tipo":"Quarto Romântico", "quantidadeTotal": 5, "preco": 79.50, "quantidadeAdultos": 2, "quantidadeCriancas": 1, "camas":"2x Beliche \n1x KingSize \n1x Berço", "itens":"2x Airfreyer \n1x Airfreyer"},
       {"id":2, "tipo":"Quarto dos Pirralhos", "quantidadeTotal": 3, "preco": 19.50, "quantidadeAdultos": 3, "quantidadeCriancas": 1, "camas":"1x KingSize", "itens": "1x Tv"},
       {"id":3, "tipo":"Quarto Família", "quantidadeTotal": 12, "preco": 45.50, "quantidadeAdultos": 2, "quantidadeCriancas": 2, "camas":"3x Solteiro", "itens":""}
-    ],
-   "reservas": [
-      {"id": 1, "dataChegada": "12/01/2004", "dataSaida": "15/01/2004", "idHospede": 1},
-      {"id": 2, "dataChegada": "10/04/1998", "dataSaida": "20/04/1998", "idHospede": 1},
-      {"id": 3, "dataChegada": "30/12/2024", "dataSaida": "03/01/2024", "idHospede": 2}
-   ]
+    ]
 }
