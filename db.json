@@ -24,5 +24,5 @@
       {"id":2, "quantidade": 55, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCriancas": 0, "hotel": "HoteLeo"},
       {"id":3, "quantidade": 2, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCriancas": 0, "hotel": "oTheo"},
       {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCriancas": 1, "hotel": "Hotel Hotel"}
-    ]
+   ]
 }
