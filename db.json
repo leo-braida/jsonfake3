@@ -18,5 +18,11 @@
       {"id":1, "tipo":"Quarto Romântico", "quantidadeTotal": 5, "preco": 79.50, "quantidadeAdultos": 2, "quantidadeCriancas": 1, "camas":"2x Beliche \n1x KingSize \n1x Berço", "itens":"2x Airfreyer \n1x Airfreyer"},
       {"id":2, "tipo":"Quarto dos Pirralhos", "quantidadeTotal": 3, "preco": 19.50, "quantidadeAdultos": 3, "quantidadeCriancas": 1, "camas":"1x KingSize", "itens": "1x Tv"},
       {"id":3, "tipo":"Quarto Família", "quantidadeTotal": 12, "preco": 45.50, "quantidadeAdultos": 2, "quantidadeCriancas": 2, "camas":"3x Solteiro", "itens":""}
-    ]
+    ],
+   "camas": [
+      {"id":1, "quantidade": 5, "tipo": "Beliche", "quantidadeAdultos": 0, "quantidadeCriancas": 2, "hotel": "HoteLeo"},
+      {"id":2, "quantidade": 55, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCriancas": 0, "hotel": "HoteLeo"},
+      {"id":3, "quantidade": 2, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCriancas": 0, "hotel": "oTheo"},
+      {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCriancas": 1, "hotel": "Hotel Hotel"}
+    ]
 }
