@@ -10,9 +10,9 @@
         {"id": 3, "checkIn": "2023-09-25T15:00:00", "checkOut": "2023-09-30T15:00:00", "hospede": "Roberto", "adultos": 1, "criancas": 2, "servicos": "Aula de hidroginástica", "reserva": "Não", "quarto": 3, "hotel":"Hotel Hotel", "itensExtras":"", "camasExtras":"1x Berço"}
     ],
    "agendamentos":[
-        {"id":1,"horarioInicio": "10:00", "data": "2025-01-20", "hospedeRegistrado": "Beatriz", "funcionario": "Léo", "quarto": 1, "servico": "Massagem", "hotel":"HoteLeo"},
-        {"id":2,"horarioInicio": "14:00", "data": "2025-02-05", "hospedeRegistrado": "Léo", "funcionario": "Lorran", "quarto": 2, "servico": "Partida de Futebol", "hotel":"oTheo"},
-        {"id":3,"horarioInicio": "15:00", "data": "2024-10-20", "hospedeRegistrado": "Roberto", "funcionario": "Mateus", "quarto": 3, "servico": "Aula de Hidroginástica", "hotel":"Hotel Hotel"}
+        {"id":1, "reserva": "2025-01-20T10:00:00", "hospedeRegistrado": "Beatriz", "funcionario": "Léo", "quarto": 1, "servico": "Massagem", "hotel":"HoteLeo"},
+        {"id":2, "reserva": "2025-02-05T14:00:00", "hospedeRegistrado": "Léo", "funcionario": "Lorran", "quarto": 2, "servico": "Partida de Futebol", "hotel":"oTheo"},
+        {"id":3, "reserva": "2024-10-20T15:00:00", "hospedeRegistrado": "Roberto", "funcionario": "Mateus", "quarto": 3, "servico": "Aula de Hidroginástica", "hotel":"Hotel Hotel"}
       ],
   "tipoDeQuartos": [
       {"id":1, "tipo":"Quarto Romântico", "quantidadeTotal": 5, "preco": 79.50, "quantidadeAdultos": 2, "quantidadeCriancas": 1, "camas":"2x Beliche \n1x KingSize \n1x Berço", "itens":"2x Airfreyer \n1x Airfreyer"},
