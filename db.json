@@ -5,9 +5,9 @@
       {"id":3, "situacao": "Em manutenção", "numero": 3, "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"}
    ],
     "hospedagens": [
-        {"id": 1, "checkIn": "2024-06-10T10:30:00", "checkOut": "2024-06-15T10:30:00", "hospede": "Beatriz", "adultos": 2, "criancas": 2, "servicos": "Massagem", "reserva": "Sim", "quarto": 1, "hotel":"HoteLeo", "itensExtras": "1x Televisão\n1x Água mineral 500ml", "camasExtras":""},
-        {"id": 2, "checkIn": "2023-07-21T08:00:00", "checkOut": "2023-07-21T11:00:00", "hospede": "Léo", "adultos": 3, "criancas": 0, "servicos": "Massagem", "reserva": "Sim", "quarto": 2, "hotel":"oTheo", "itensExtras": "1x Televisão\n2x Frigobar", "camasExtras": ""},
-        {"id": 3, "checkIn": "2023-09-25T15:00:00", "checkOut": "2023-09-30T15:00:00", "hospede": "Roberto", "adultos": 1, "criancas": 2, "servicos": "Aula de hidroginástica", "reserva": "Não", "quarto": 3, "hotel":"Hotel Hotel", "itensExtras":"", "camasExtras":"1x Berço"}
+        {"id": 1, "checkIn": "2024-06-10T10:30:00", "checkOut": "2024-06-15T10:30:00", "hospede": "Beatriz", "adultos": 2, "criancas": 2, "servicos": "1x Massagem", "reserva": "Sim", "quarto": 1, "hotel":"HoteLeo", "itensExtras": "1x Televisão\n1x Água mineral 500ml", "camasExtras":""},
+        {"id": 2, "checkIn": "2023-07-21T08:00:00", "checkOut": "2023-07-21T11:00:00", "hospede": "Léo", "adultos": 3, "criancas": 0, "servicos": "2x Massagem", "reserva": "Sim", "quarto": 2, "hotel":"oTheo", "itensExtras": "1x Televisão\n2x Frigobar", "camasExtras": ""},
+        {"id": 3, "checkIn": "2023-09-25T15:00:00", "checkOut": "2023-09-30T15:00:00", "hospede": "Roberto", "adultos": 1, "criancas": 2, "servicos": "3x Aula de hidroginástica", "reserva": "Não", "quarto": 3, "hotel":"Hotel Hotel", "itensExtras":"", "camasExtras":"1x Berço"}
     ],
    "agendamentos":[
         {"id":1, "reserva": "2025-01-20T10:00:00", "hospedeRegistrado": "Beatriz", "funcionario": "Léo Braida", "quarto": 1, "servico": "Massagem", "hotel":"HoteLeo"},
