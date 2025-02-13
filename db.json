@@ -1,8 +1,8 @@
 {
    "quartos": [
-      {"id":1, "situacao": "Disponivel", "numero": 71, "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo"},
-      {"id":2, "situacao": "Requer manutenção", "numero": 22, "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo"},
-      {"id":3, "situacao": "Em manutenção", "numero": 139, "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"}
+      {"id":1, "situacao": "Disponivel", "numero": 1, "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo"},
+      {"id":2, "situacao": "Requer manutenção", "numero": 2, "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo"},
+      {"id":3, "situacao": "Em manutenção", "numero": 3, "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"}
    ],
     "hospedagens": [
         {"id": 1, "checkIn": "2024-06-10T10:30:00", "checkOut": "2024-06-15T10:30:00", "hospede": "Beatriz", "adultos": 2, "criancas": 2, "servicos": "Massagem", "reserva": "Sim", "quarto": 1, "hotel":"HoteLeo", "itensExtras": "1x Televisão\n1x Água mineral 500ml", "camasExtras":""},
